@@ -214,4 +214,5 @@ By conducting this experiment, we can gain valuable insights into the impact of 
 
 
 ### CONCLUSION
-                The Both give the prompt very efficiently and the ChatGPT provides more theory and the Gemini provides the prompt in short  in my conclusion the two generative ai provides the information in detail but the ChatGPT give more detailed and the geminin result the problem in simple sentence so, I prefer the information whether I wish to know about more I should use ChatGPT and know the main content I prefer Gemini is good to understand .
+
+The Both give the prompt very efficiently and the ChatGPT provides more theory and the Gemini provides the prompt in short  in my conclusion the two generative ai provides the information in detail but the ChatGPT give more detailed and the geminin result the problem in simple sentence so, I prefer the information whether I wish to know about more I should use ChatGPT and know the main content I prefer Gemini is good to understand .
